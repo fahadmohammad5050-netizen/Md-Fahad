@@ -1,0 +1,5 @@
+{
+  "name": "Company Accounting Sheets",
+  "description": "A web application for tracking daily sales, statements, and business accounting reports, designed to function like an interactive spreadsheet.",
+  "requestFramePermissions": []
+}
